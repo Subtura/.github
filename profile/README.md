@@ -1,104 +1,76 @@
 # Subtura
 
-**Student-only sublets, made safe, simple, and reliable.**  
-Website: https://subtura.com/  
-Contact: contact@subtura.com  
-Location: Toronto, ON, Canada
+Student-only sublets, made safe, simple, and reliable.
+
+[subtura.com](https://subtura.com/) | [contact@subtura.com](mailto:contact@subtura.com)
 
 ---
 
 ## Table of Contents
-- [What is Subtura?](#what-is-subtura)
+
+- [Overview](#overview)
 - [Mission](#mission)
-- [Vision](#vision)
 - [The Problem](#the-problem)
 - [Our Approach](#our-approach)
-- [What You Can Do (Today)](#what-you-can-do-today)
-- [What’s Coming Next](#whats-coming-next)
-- [Student Verification](#student-verification)
-- [Current Status](#current-status)
-- [Feedback](#feedback)
+- [Current Capabilities](#current-capabilities)
+- [Product Roadmap](#product-roadmap)
+- [Development Status](#development-status)
 - [Contact](#contact)
 
 ---
 
-## What is Subtura?
-Subtura is a **student-focused housing platform** designed to make subletting **safe, simple, and reliable**.
+## Overview
 
-Think “Facebook Marketplace for sublets” — but built specifically for **university students**, with trust and clarity as the default.
-
----
+Subtura is a student-focused housing platform designed to make subletting safe, simple, and reliable. We provide a trusted marketplace exclusively for university students to find and list short-term housing that aligns with academic schedules.
 
 ## Mission
+
 To help students find and offer sublets with confidence by building a trusted, student-only marketplace that reduces scams, stress, and uncertainty.
 
----
-
-## Vision
-A world where every student can secure housing for a term, co-op, or semester in minutes — with transparent listings, safer interactions, and a community that looks out for each other.
-
----
-
 ## The Problem
-Student subletting is messy:
-- Scams and sketchy listings are common
-- Communication is fragmented and unreliable
-- Students waste time sorting through low-quality or misleading posts
-- It’s hard to know what’s real, what’s fair, and who to trust
 
----
+Student subletting presents significant challenges:
+
+- High prevalence of scams and unreliable listings
+- Fragmented and inefficient communication channels
+- Time-consuming process of filtering low-quality posts
+- Lack of transparency regarding authenticity and fair pricing
+- Limited trust mechanisms between students
 
 ## Our Approach
-Subtura is built around a few core principles:
-- **Student-only access**: a community designed for students, not random traffic
-- **Trust first**: clear expectations, better listing quality, and safer communication
-- **Term-friendly housing**: sublets that match how students actually move (semesters, co-ops, 4-month terms)
-- **Simple UX**: fast browsing, easy posting, and straightforward conversations
 
----
+- **Student-Only Access**: A closed community designed specifically for university students.
+- **Trust-First Design**: Clear expectations, improved listing standards, and secure communication.
+- **Academic Calendar Alignment**: Housing options that accommodate semester schedules and co-op terms.
+- **Streamlined Experience**: Efficient browsing, straightforward posting, and simplified workflows.
 
-## What You Can Do (Today)
-Subtura is currently rolling out an early prototype to gather user feedback. Depending on what’s enabled during the rollout, you may be able to:
-- Browse student sublet listings
-- Filter by key details (e.g., term, price, location/distance)
-- Sign up as a student to join the community
-- Share feedback that directly shapes the product
+## Current Capabilities
 
----
+- Browse verified student sublet listings
+- Advanced filtering by term dates, price range, and location
+- Student account registration and verification
+- Direct feedback channels to influence product development
 
-## What’s Coming Next
-As we move from prototype → production, we’re working toward features like:
-- Stronger verification and trust signals
-- Better reporting/moderation tools to reduce scams and spam
-- Improved listing standards (required fields, clearer pricing, better photos)
-- More guided workflows for both renters and listers (so fewer misunderstandings)
-- A smoother end-to-end experience for term-based housing
+## Product Roadmap
 
-*(Note: not all production features are available yet.)*
+- Enhanced verification and trust indicators
+- Comprehensive reporting and moderation systems
+- Standardized listing requirements
+- Guided workflows for both renters and subletters
+- Optimized end-to-end experience for term-based housing
 
----
+## Development Status
 
-## Student Verification
-Subtura is built for university students. Access is intended to be restricted to students so the marketplace stays relevant, safer, and higher quality.
+**Current Phase:** 🚧 Prototype / Early Rollout
 
----
-
-## Current Status
-🚧 **Prototype / early rollout**  
-We’re actively collecting feedback and iterating quickly. Some features may be limited, incomplete, or subject to change.
-
-If you’re using Subtura right now: thank you — your feedback directly influences what we build next.
-
----
-
-## Feedback
-Have ideas, found a bug, or want a feature?
-- Email us: **contact@subtura.com**
-- Or share feedback through the site when prompted
-
----
+We are actively gathering user feedback and iterating on the platform. Some features may be limited or subject to change as we refine the product based on real-world usage.
 
 ## Contact
-**Subtura**  
-Website: https://subtura.com/  
-Email: contact@subtura.com
+
+**Email:** contact@subtura.com  
+**Website:** subtura.com  
+**Location:** Toronto, ON, Canada
+
+---
+
+© 2025 Subtura. Building the future of student housing.
