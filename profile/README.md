@@ -1,32 +1,3 @@
-<table>
-<tr>
-<td width="30%">
-<!-- Company Logo -->
-<img src="../public/SubturaLogo.png" alt="Subtura Logo" width="700%"/>
-</td>
-<td>
-
-<!-- Title -->
-
-# Subtura
-
-<!-- Description + icons -->
-
-***Student-only sublets. Safe, simple, and reliable.***
-
-[![Live](https://img.shields.io/badge/LIVE-subtura.com-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](https://subtura.com)
-[![Contact](https://img.shields.io/badge/CONTACT-email-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](mailto:contact@subtura.com)
-
-![Verified](https://img.shields.io/badge/Verified_Students-0B0F19?style=flat)
-![Messaging](https://img.shields.io/badge/Direct_Messaging-0B0F19?style=flat)
-![Trust](https://img.shields.io/badge/Trust--First_Listings-0B0F19?style=flat)
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- Product screenshots -->
 <p align="center">
   <img src="../public/SubturaLandingPage.png" alt="Subtura Landing Page" width="100%" style="border-radius: 8px;" />
