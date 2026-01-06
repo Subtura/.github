@@ -1,10 +1,45 @@
+<table>
+<tr>
+<td width="120">
+<!-- Company Logo -->
+<img src="../public/SubturaLogo.png" alt="Subtura Logo" width="100"/>
+</td>
+<td>
+
+<!-- Title -->
+
 # Subtura
 
-Student-only sublets, made safe, simple, and reliable.
+<!-- Description + icons -->
 
-[subtura.com](https://subtura.com/) | [contact@subtura.com](mailto:contact@subtura.com)
+### Student-only sublets. Safe, simple, and reliable.
+
+[![Live](https://img.shields.io/badge/LIVE-subtura.com-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](https://subtura.com)
+[![Contact](https://img.shields.io/badge/CONTACT-email-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](mailto:contact@subtura.com)
+
+![Verified](https://img.shields.io/badge/Verified_Students-0B0F19?style=flat)
+![Messaging](https://img.shields.io/badge/Direct_Messaging-0B0F19?style=flat)
+![Trust](https://img.shields.io/badge/Trust--First_Listings-0B0F19?style=flat)
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- Product screenshots -->
+<p align="center">
+  <img src="../public/SubturaLandingPage.png" alt="Subtura Landing Page" width="100%" style="border-radius: 8px;" />
+</p>
+
+<p align="center">
+  <img src="../public/SubturaSearchPage.png" alt="Search Page" width="49.5%" style="aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;" />
+  <img src="../public/SubturaFeatured.png" alt="Featured Listings" width="49.5%" style=" aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;" />
+</p>
+
+---
+
+<!-- Company Description -->
 
 ## Table of Contents
 
@@ -27,6 +62,10 @@ Subtura is a student-focused housing platform designed to make subletting safe, 
 
 To help students find and offer sublets with confidence by building a trusted, student-only marketplace that reduces scams, stress, and uncertainty.
 
+<p align="center">
+  <img src="../public/SubturaMission.png" alt="Subtura Landing Page" width="100%" style="border-radius: 8px;" />
+</p>
+
 ## The Problem
 
 Student subletting presents significant challenges:
@@ -44,12 +83,20 @@ Student subletting presents significant challenges:
 - **Academic Calendar Alignment**: Housing options that accommodate semester schedules and co-op terms.
 - **Streamlined Experience**: Efficient browsing, straightforward posting, and simplified workflows.
 
+<p align="center">
+  <img src="../public/SubturaSuperiority.png" alt="Subtura Landing Page" width="100%" style="border-radius: 8px;" />
+</p>
+
 ## Current Capabilities
 
 - Browse verified student sublet listings
 - Advanced filtering by term dates, price range, and location
 - Student account registration and verification
 - Direct feedback channels to influence product development
+
+<p align="center">
+  <img src="../public/SubturaBenefits.png" alt="Subtura Landing Page" width="100%" style="border-radius: 8px;" />
+</p>
 
 ## Product Roadmap
 
@@ -73,4 +120,4 @@ We are actively gathering user feedback and iterating on the platform. Some feat
 
 ---
 
-© 2025 Subtura. Building the future of student housing.
+© 2026 Subtura. Building the future of student housing.
