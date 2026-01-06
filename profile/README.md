@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="120">
+<td width="30%">
 <!-- Company Logo -->
-<img src="../public/SubturaLogo.png" alt="Subtura Logo" width="100"/>
+<img src="../public/SubturaLogo.png" alt="Subtura Logo" width="700%"/>
 </td>
 <td>
 
@@ -12,7 +12,7 @@
 
 <!-- Description + icons -->
 
-### Student-only sublets. Safe, simple, and reliable.
+***Student-only sublets. Safe, simple, and reliable.***
 
 [![Live](https://img.shields.io/badge/LIVE-subtura.com-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](https://subtura.com)
 [![Contact](https://img.shields.io/badge/CONTACT-email-111827?style=for-the-badge&labelColor=FBBF24&color=111827)](mailto:contact@subtura.com)
